@@ -16,7 +16,7 @@
 using namespace std;
 
 #define MAXBUF 512
-
+//Hahahaha estou aqui no branch mas não no master;
 void criaSock();
 void tipoStream();
 
